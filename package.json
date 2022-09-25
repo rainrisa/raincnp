@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "dotenv": "^16.0.2",
+    "mongodb": "^4.10.0",
     "telegraf": "^4.9.2"
   }
 }
