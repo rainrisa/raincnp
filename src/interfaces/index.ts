@@ -35,11 +35,14 @@ export interface IGrade {
 }
 
 export interface IBattle {
+  type: "regularMatch" | "clanWar" | "rfaMatchday";
   whiteTeam: {
+    teamName: string;
     score: number;
     players: IBattlePlayer[];
   };
   blackTeam: {
+    teamName: string;
     score: number;
     players: IBattlePlayer[];
   };
@@ -58,3 +61,5 @@ export interface IBattleFighter {
   self: IPlayer;
   team: IPlayer[];
 }
+
+export type IMatchType = "regularMatch" | "clanWar" | "rfaMatchday";

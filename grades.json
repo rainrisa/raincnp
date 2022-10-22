@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Trainee",
+    "expNeeded": 2000
+  },
+  {
+    "name": "Senior Trainee",
+    "expNeeded": 3000
+  },
+  {
+    "name": "Private",
+    "expNeeded": 4000
+  },
+  {
+    "name": "Corporal",
+    "expNeeded": 5000
+  },
+  {
+    "name": "Sergeant",
+    "expNeeded": 7000
+  },
+  {
+    "name": "Staff Sgt. Grade 1",
+    "expNeeded": 9000
+  },
+  {
+    "name": "Staff Sgt. Grade 2",
+    "expNeeded": 11000
+  },
+  {
+    "name": "Staff Sgt. Grade 3",
+    "expNeeded": 13000
+  },
+  {
+    "name": "Sgt. 1st Class Grade 1",
+    "expNeeded": 16000
+  },
+  {
+    "name": "Sgt. 1st Class Grade 2",
+    "expNeeded": 19000
+  },
+  {
+    "name": "Sgt. 1st Class Grade 3",
+    "expNeeded": 21000
+  },
+  {
+    "name": "Sgt. 1st Class Grade 4",
+    "expNeeded": 24000
+  },
+  {
+    "name": "Master Sgt. Grade 1",
+    "expNeeded": 27000
+  },
+  {
+    "name": "Master Sgt. Grade 2",
+    "expNeeded": 30000
+  },
+  {
+    "name": "Master Sgt. Grade 3",
+    "expNeeded": 33000
+  },
+  {
+    "name": "Master Sgt. Grade 4",
+    "expNeeded": 36000
+  },
+  {
+    "name": "Master Sgt. Grade 5",
+    "expNeeded": 41000
+  },
+  {
+    "name": "2nd Lt. Grade 1",
+    "expNeeded": 46000
+  },
+  {
+    "name": "2nd Lt. Grade 2",
+    "expNeeded": 51000
+  },
+  {
+    "name": "2nd Lt. Grade 3",
+    "expNeeded": 56000
+  },
+  {
+    "name": "2nd Lt. Grade 4",
+    "expNeeded": 62000
+  },
+  {
+    "name": "1st Lt. Grade 1",
+    "expNeeded": 68000
+  },
+  {
+    "name": "1st Lt. Grade 2",
+    "expNeeded": 74000
+  },
+  {
+    "name": "1st Lt. Grade 3",
+    "expNeeded": 80000
+  },
+  {
+    "name": "1st Lt. Grade 4",
+    "expNeeded": 86000
+  },
+  {
+    "name": "1st Lt. Grade 5",
+    "expNeeded": 93000
+  },
+  {
+    "name": "Captain Grade 1",
+    "expNeeded": 100000
+  },
+  {
+    "name": "Captain Grade 2",
+    "expNeeded": 107000
+  },
+  {
+    "name": "Captain Grade 3",
+    "expNeeded": 114000
+  },
+  {
+    "name": "Captain Grade 4",
+    "expNeeded": 121000
+  },
+  {
+    "name": "Captain Grade 5",
+    "expNeeded": 151000
+  },
+  {
+    "name": "Major Grade 1",
+    "expNeeded": 181000
+  },
+  {
+    "name": "Major Grade 2",
+    "expNeeded": 211000
+  },
+  {
+    "name": "Major Grade 3",
+    "expNeeded": 241000
+  },
+  {
+    "name": "Major Grade 4",
+    "expNeeded": 271000
+  },
+  {
+    "name": "Major Grade 5",
+    "expNeeded": 311000
+  },
+  {
+    "name": "Lt. Colonel Grade 1",
+    "expNeeded": 352000
+  },
+  {
+    "name": "Lt. Colonel Grade 2",
+    "expNeeded": 391000
+  },
+  {
+    "name": "Lt. Colonel Grade 3",
+    "expNeeded": 431000
+  },
+  {
+    "name": "Lt. Colonel Grade 4",
+    "expNeeded": 471000
+  },
+  {
+    "name": "Lt. Colonel Grade 5",
+    "expNeeded": 521000
+  },
+  {
+    "name": "Colonel Grade 1",
+    "expNeeded": 571000
+  },
+  {
+    "name": "Colonel Grade 2",
+    "expNeeded": 621000
+  },
+  {
+    "name": "Colonel Grade 3",
+    "expNeeded": 671000
+  },
+  {
+    "name": "Colonel Grade 4",
+    "expNeeded": 721000
+  },
+  {
+    "name": "Colonel Grade 5",
+    "expNeeded": 781000
+  },
+  {
+    "name": "Brigadier",
+    "expNeeded": 4579800
+  },
+  {
+    "name": "Major General",
+    "expNeeded": 4224200
+  },
+  {
+    "name": "Lt. General",
+    "expNeeded": 19091000
+  },
+  {
+    "name": "General",
+    "expNeeded": 87850000
+  },
+  {
+    "name": "Commander",
+    "expNeeded": 124000000
+  }
+]

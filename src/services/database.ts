@@ -19,6 +19,9 @@ async function setDatabase(rain: Db) {
   global.TeamModel = rain.collection("teams");
   global.GradeModel = rain.collection("grades");
   global.BattleModel = rain.collection("battles");
+
+  PlayerModel.createIndex({ name: 1 }, { unique: true });
+  TeamModel.createIndex({ name: 1 }, { unique: true });
 }
 
 export default setDatabase;
